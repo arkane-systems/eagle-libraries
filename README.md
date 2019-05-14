@@ -2,6 +2,8 @@
 
 Slowly building my own collection of parts for Eagle CAD.
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I1VA18)
+
 Currently contains the libraries:
 
 ## adafruit-supplemental-arkane.lbr
